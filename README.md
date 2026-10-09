@@ -2,7 +2,13 @@ Terms and Conditions for SMS Messaging
 
 Effective Date: October 9, 2026
 
-By opting in to receive SMS/text messages from HD Appliances and Installations Inc, you agree to the following Terms and Conditions.
+By opting in to receive SMS messages from HD Appliances and Installations Inc, you agree to receive customer care messages.
+
+Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates may apply.
+You can opt out at any time by replying STOP.
+For help, reply HELP.
+Privacy Policy: https://github.com/jchinchillagoto/hdappliancesincPP
 
 Business Information
 
